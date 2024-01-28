@@ -2,7 +2,7 @@
 <h3 align="center">A third year student learning how to become a Software Engineer</h3>
 
 - 🌱 I’m currently learning **Frontend Development & Backend Development**
-- 
+
 - 📫 How to reach me **Royankaruna@gmail.com**
 
 - ⚡ Fun fact **Im a Mechanical Keyboard Hobbyist and a Badminton Player**
