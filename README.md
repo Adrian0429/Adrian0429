@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Karuna S.</h1>
-<h3 align="center">A third year student learning how to become a Software Engineer</h3>
 
-- 🌱 I’m currently learning **Frontend Development & Backend Development**
+- 🌱 I’m currently focusing on  **Frontend Development & Backend Development** & **Data Analytical**
 
 - 📫 How to reach me **Royankaruna@gmail.com**
 
